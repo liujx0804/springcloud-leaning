@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EurekaTurbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaCustomer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaCustomer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaCustomer3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaProvide" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaProvide2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaProvide3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaServer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaServer3" charset="UTF-8" />
+  </component>
+</project>
