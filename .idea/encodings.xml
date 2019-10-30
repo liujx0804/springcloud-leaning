@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/EurekaTurbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud_EurekaConfig" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud_EurekaCustomer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud_EurekaCustomer2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud_EurekaCustomer3" charset="UTF-8" />
