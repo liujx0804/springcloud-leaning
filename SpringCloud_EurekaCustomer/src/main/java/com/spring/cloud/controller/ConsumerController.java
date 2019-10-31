@@ -12,7 +12,7 @@ public class ConsumerController {
 
     @Autowired
     HelloRemote HelloRemote;
- ////   @Value("${document}")
+    @Value("${neo.hello}")
     private String msg;
 
     @RequestMapping("/hello/{name}")
@@ -21,7 +21,7 @@ public class ConsumerController {
         return hello;
     }
 
-    @RequestMapping("/hello")
+    @RequestMapping("/getMsg")
     public String getMsg() {
         return this.msg;
     }
