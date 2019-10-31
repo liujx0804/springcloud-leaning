@@ -12,7 +12,7 @@ public class ConsumerController {
 
     @Autowired
     HelloRemote HelloRemote;
- //   @Value("${document}")
+ ////   @Value("${document}")
     private String msg;
 
     @RequestMapping("/hello/{name}")
