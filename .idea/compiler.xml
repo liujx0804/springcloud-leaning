@@ -7,16 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringCloud_EurekaCustomer" />
-        <module name="cloud (1)" />
+        <module name="cloud (2)" />
+        <module name="cloud (8)" />
+        <module name="cloud (9)" />
+        <module name="cloud (3)" />
+        <module name="cloud (7)" />
         <module name="SpringCloud_EurekaProvide3" />
         <module name="SpringCloud_EurekaProvide2" />
+        <module name="cloud (4)" />
         <module name="SpringCloud_EurekaConfig" />
         <module name="SpringCloud_EurekaProvide" />
+        <module name="cloud (5)" />
+        <module name="cloud (10)" />
         <module name="EurekaTurbine" />
-        <module name="cloud (3)" />
-        <module name="cloud (2)" />
+        <module name="cloud (6)" />
+        <module name="cloud (11)" />
         <module name="cloud" />
-        <module name="cloud (4)" />
+        <module name="cloud (1)" />
       </profile>
     </annotationProcessing>
   </component>
